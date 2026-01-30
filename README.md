@@ -52,7 +52,7 @@ Si deseas clonar este repositorio y correr tu propia versión del bot:
 
 ```bash
 # Clonar el repositorio
-git clone [https://github.com/Cristhian1810/nexobot-telegram.git](https://github.com/Cristhian1810/nexobot-telegram.git)
+git clone https://github.com/Cristhian1810/nexobot-telegram.git
 
 # Entrar a la carpeta
 cd nexobot-telegram
